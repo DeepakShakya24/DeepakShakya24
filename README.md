@@ -19,7 +19,7 @@
 <br>
 <br>
 
-![](https://komarev.com/ghpvc/?username=Faranheit15&color=grey)
+![](https://komarev.com/ghpvc/?username=DeepakShakya24&color=grey)
 
 <br />
 
