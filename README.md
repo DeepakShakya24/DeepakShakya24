@@ -2,11 +2,10 @@
 
 ## I'm a self-taught Developer and Designer!
 
-- 🔭 I’m currently learning DevOps,AWS and MERNstack Development!
+- 🔭 I’m currently learning Azure, .NET Core Web API!
 - 🌱 I’m a learner and I try to learn something new everyday
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
-
+- 🥅 2024 Goals: Learn Angular
 ### Connect with me:
 
 [<img align="left" alt="https://www.deepakshakya.tech/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
